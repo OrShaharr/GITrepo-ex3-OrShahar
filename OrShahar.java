@@ -4,5 +4,6 @@ public class OrShahar{
 			System.out.println("Or Shahar..."+i);
 		}
 		System.out.println("new line added");
+		System.out.println("another new line");
 	}
 }
